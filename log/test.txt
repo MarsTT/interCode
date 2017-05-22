@@ -1,0 +1,6 @@
+2017-05-17 17:34:21,488 DEBUG [Errno socket error] [Errno 8] nodename nor servname provided, or not known
+2017-05-17 17:35:32,019 DEBUG [Errno socket error] [Errno 8] nodename nor servname provided, or not known
+2017-05-17 21:27:01,515 DEBUG [Errno socket error] [Errno 8] nodename nor servname provided, or not known
+2017-05-17 21:29:21,560 DEBUG [Errno socket error] [Errno 8] nodename nor servname provided, or not known
+2017-05-17 21:29:52,887 DEBUG [Errno socket error] [Errno 8] nodename nor servname provided, or not known
+2017-05-17 21:32:48,387 DEBUG integer division or modulo by zero
